@@ -3,18 +3,18 @@ Portfolio developed from October 2026 to March 2027.
 
 The goal is to build practical skills in:
 
-- Financial Analysis/Financial Accountability
+- Financial & Data Analysis with Financial Accountability
 - SQL/Databases
 - Power BI
 - AI Automation
 
 ## Projects
 
-### Financial Analysis
+### Financial Analysis & Data Analysis with Financial Accountability
 Financial statement analysis, financial modelling and valuation, 
 using financial accounting and data analysis methodologies.
 
-### SQL Analysis
+### SQL Analysis/Databases
 Data analysis using SQL and relational databases.
 
 ### Power BI Dashboard
